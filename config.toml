@@ -87,6 +87,7 @@ archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage
 
 [Instagram]
 enabled = true 
+build-mode = "apk"
 apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
 arch = "arm-v7a"
 
