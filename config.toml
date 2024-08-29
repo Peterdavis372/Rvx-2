@@ -88,7 +88,7 @@ archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage
 [Instagram]
 enabled = true 
 apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
-arch = "arm64-v8a"
+arch = "arm-v7a"
 
 [Messenger]
 enabled = false
