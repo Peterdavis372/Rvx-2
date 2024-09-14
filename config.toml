@@ -75,6 +75,7 @@ archive-dlurl = "https://archive.org/download/jhc-apks/apks/tv.twitch.android.ap
 [TikTok]
 enabled = true
 version = "36.5.2"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/tiktok-pte-ltd/"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.zhiliaoapp.musically"
 included-patches = "'SIM spoof'"
 
