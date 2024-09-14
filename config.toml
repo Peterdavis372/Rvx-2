@@ -34,7 +34,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 arch = "both"
 
 [YouTube-Extended-inotia]
-enabled = true
+enabled = false
 app-name = "YouTube"
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 patches-source = "inotia00/revanced-patches"
@@ -73,7 +73,7 @@ enabled = false
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/tv.twitch.android.app"
 
 [TikTok]
-enabled = false
+enabled = true
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.zhiliaoapp.musically"
 included-patches = "'SIM spoof'"
 
