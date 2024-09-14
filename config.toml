@@ -79,7 +79,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/tiktok-pte-ltd/tik-tok/"
 included-patches = "'SIM spoof'"
 
 [TikTok-Global-with-spoof-sim]
-enabled = false
+enabled = true
 version = "36.5.2"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
 included-patches = "'SIM spoof'"
