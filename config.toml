@@ -74,9 +74,7 @@ archive-dlurl = "https://archive.org/download/jhc-apks/apks/tv.twitch.android.ap
 
 [TikTok-Asia]
 enabled = true
-version = "34.4.3"
-version = "35.9.4"
-version = "36.4.4"
+version = "'34.4.3' '35.9.4' '36.4.4'"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/tiktok-pte-ltd/tik-tok/"
 included-patches = "'SIM spoof'"
 
