@@ -73,7 +73,7 @@ enabled = false
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/tv.twitch.android.app"
 
 [TikTok]
-enabled = true
+enabled = false
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.zhiliaoapp.musically"
 included-patches = "'SIM spoof'"
 
@@ -103,3 +103,9 @@ uptodown-dlurl = "https://spotify.en.uptodown.com/android"
 [IconPackStudio]
 enabled = false
 apkmirror-dlurl = "https://www.apkmirror.com/apk/smart-launcher-team/icon-pack-studio/"
+
+[Duolingo]
+enabled = true
+patches-version = "v4.14.0-dev.2"
+version = "5.117.4"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/duolingo/"
