@@ -73,16 +73,16 @@ enabled = false
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/tv.twitch.android.app"
 
 [TikTok-Asia-with-sim-spoof]
-enabled = true
+enabled = false
 version = "36.4.4"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/tiktok-pte-ltd/tik-tok/"
 included-patches = "'SIM spoof'"
 
-[TikTok-Global-with-spoof-sim]
+[TikTok-Global-without-spoof-sim]
 enabled = true
 version = "36.5.2"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
-included-patches = "'SIM spoof'"
+
 
 [Reddit-Extended]
 enabled = false
