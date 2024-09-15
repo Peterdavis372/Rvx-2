@@ -77,6 +77,7 @@ enabled = false
 version = "31.9.3"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/tiktok-pte-ltd/tik-tok/"
 included-patches = "'SIM spoof'"
+atches-version = "v4.4.0"
 
 [TikTok-Global-without-spoof-sim]
 enabled = true
