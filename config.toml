@@ -76,15 +76,14 @@ archive-dlurl = "https://archive.org/download/jhc-apks/apks/tv.twitch.android.ap
 enabled = false
 version = "32.5.3"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/tiktok-pte-ltd/tik-tok/"
-included-patches = "'SIM spoof'"
+excluded-patches = " 'Remember clear display' 'Playback speed' 'Disable login requirement' 'Spoof Sim Country' 'Spoof Wi-Fi Connection' 'Remove screenshot restriction' 'Export all activities' 'SIM spoof' "
 patches-version = "v4.4.0"
 
 [TikTok-Global-without-spoof-sim]
 enabled = true
-version = "35.5.4"
+version = "32.5.3"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
-included-patches = " 'Sim spoof' "
-patches-version = "v4.4.0" 
+excluded-patches = " 'Remember clear display' 'Playback speed' 'Disable login requirement' 'Spoof Sim Country' 'Spoof Wi-Fi Connection' 'Remove screenshot restriction' 'Export all activities' 'SIM spoof' "
 
 
 [Reddit-Extended]
