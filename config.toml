@@ -82,7 +82,7 @@ included-patches = "'SIM spoof'"
 enabled = true
 version = "32.5.3"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
-included-patches = "Sim spoof"
+included-patches = " 'Sim spoof' "
 excluded-patches = " 'Remember clear display' 'Playback speed' 'Disable login requirement' 'Spoof Sim Country' 'Spoof Wi-Fi Connection' 'Remove screenshot restriction' 'Export all activities' " 
 
 
