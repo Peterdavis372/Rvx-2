@@ -82,6 +82,7 @@ patches-version = "v4.4.0"
 [TikTok-Global-without-spoof-sim]
 enabled = true
 version = "32.5.3"
+excluded-patches = " 'Spoof Wi-Fi connection' 'Remove screenshot restriction' 'Export all activities' 'Predictive back gesture' 'Hide mock location' 'Change version code' 'Spoof build info' 'Override certificate pinning' 'Enable Android debugging' 'Override certificate pinning' 'Remove share targets' 'Remove screen capture restriction' "
 apkmirror-dlurl = "https://www.apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
 
 [Reddit-Extended]
