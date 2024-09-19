@@ -6,7 +6,7 @@ enable-magisk-update = true   # set this to false if you do not want to receive 
 # you can use rvmm-config-gen to generate a config
 
 [YouTube]
-enabled = false
+enabled = true
 build-mode = "both"
 excluded-patches = ""
 included-patches = ""
@@ -80,7 +80,7 @@ excluded-patches = " 'Remember clear display' 'Playback speed' 'Disable login re
 patches-version = "v4.4.0"
 
 [TikTok-Global-without-spoof-sim]
-enabled = true
+enabled = false
 version = "32.5.3"
 included-patches = " 'Spoof Wi-Fi connection' 'Remove screenshot restriction' 'Export all activities' 'Predictive back gesture' 'Hide mock location' 'Change version code' 'Spoof build info' 'Override certificate pinning' 'Enable Android debugging' 'Override certificate pinning' 'Remove share targets' 'Remove screen capture restriction' "
 apkmirror-dlurl = "https://www.apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
