@@ -6,7 +6,7 @@ enable-magisk-update = true   # set this to false if you do not want to receive 
 # you can use rvmm-config-gen to generate a config
 
 [YouTube]
-enabled = true
+enabled = false
 build-mode = "both"
 excluded-patches = ""
 included-patches = ""
@@ -49,13 +49,14 @@ archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.y
 
 
 [YouTube-Extended-anddea]
-enabled = false
+enabled = true
 app-name = "YouTube"
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 patches-source = "anddea/revanced-patches"
 integrations-source = "anddea/revanced-integrations"
 rv-brand = "anddea ReVanced"
 version = "19.16.39"
+patches-version = "2.229.0-dev.7"
 excluded-patches = "'Custom branding name for YouTube' 'Custom branding icon for YouTube'"
 included-patches = "'Enable slide to seek'"
 cli-source = "inotia00/revanced-cli"
