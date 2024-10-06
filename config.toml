@@ -34,7 +34,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 arch = "both"
 
 [YouTube-Extended-inotia]
-enabled = true
+enabled = false
 app-name = "YouTube"
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 patches-source = "inotia00/revanced-patches"
@@ -117,3 +117,9 @@ enabled = false
 patches-version = "v4.14.0-dev.2"
 version = "5.117.4"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/duolingo/"
+
+[Twitch]
+enabled = true
+build-mode = "both"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/twitch-interactive-inc/twitch/twitch-17-0-0-release/"
+arch = "both"
