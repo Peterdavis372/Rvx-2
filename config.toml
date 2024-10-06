@@ -120,6 +120,5 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/duolingo/"
 
 [Twitch]
 enabled = true
-build-mode = "both"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/twitch-interactive-inc/twitch/twitch-17-0-0-release/"
 arch = "both"
