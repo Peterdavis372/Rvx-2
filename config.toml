@@ -45,8 +45,6 @@ excluded-patches = "'Custom branding name for YouTube' 'Custom branding icon for
 included-patches = "'Enable slide to seek'"
 cli-source = "inotia00/revanced-cli"
 build-mode = "both"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
-
 
 [YouTube-Extended-anddea]
 enabled = false
