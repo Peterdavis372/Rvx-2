@@ -47,7 +47,7 @@ cli-source = "inotia00/revanced-cli"
 build-mode = "both"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 
-[YouTube-Extended-inotia]
+[YouTube-Ext-inotia]
 enabled = true
 app-name = "YouTube"
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
